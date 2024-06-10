@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Emily!👋
 
-<!--
-**emilyAtzr/emilyAtzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a prospective software engineer currently studying at the Higher Technical College in St. Pölten. I have a passion for solving problems and enjoy collaborating with others on projects. My main interests lie in web and mobile development, and I'm also dedicated to make software accessible through open-source contributions.
 
-Here are some ideas to get you started:
+### 🦆 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 18-year-old student from Austria
+- 🏫 Currently studying at HTL St. Pölten
+- 💻 Passionate about web and mobile development
+
+### 🛠️ Skills
+
+- Languages: Java, Python
+- Web Development: Angular (HTML, CSS, JS/TS) + Bootstrap
+- Mobile Development: Flutter (Dart)
+
+### 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/emily-atzinger-833466265/)
+
+Feel free to check out my repositories and get in touch if you want to collaborate on a project! 🚀
