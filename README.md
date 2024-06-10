@@ -6,13 +6,15 @@ I'm a prospective software engineer currently studying at the Higher Technical C
 
 - 📚 18-year-old student from Austria
 - 🏫 Currently studying at HTL St. Pölten
-- 💻 Passionate about web and mobile development
+- 💻 Passionate about fullstack development with a special interest in web and mobile applications
 
 ### 🛠️ Skills
 
 - Languages: Java, Python
 - Web Development: Angular (HTML, CSS, JS/TS) + Bootstrap
 - Mobile Development: Flutter (Dart)
+- Backend Development: Express.js
+- Database: MSSQL, PostgreSQL
 
 ### 📫 Contact
 
