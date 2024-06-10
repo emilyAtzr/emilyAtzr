@@ -5,7 +5,7 @@ I'm a prospective software engineer currently studying at the Higher Technical C
 ### 🦆 About Me
 
 - 📚 18-year-old student from Austria
-- 🏫 Currently studying at HTL St. Pölten
+- 🏫 Currently studying @ HTL St. Pölten
 - 💻 Passionate about fullstack development with a special interest in web and mobile applications
 
 ### 🛠️ Skills
