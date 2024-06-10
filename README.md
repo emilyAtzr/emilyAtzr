@@ -16,8 +16,13 @@ I'm a prospective software engineer currently studying at the Higher Technical C
 - Backend Development: Express.js
 - Database: MSSQL, PostgreSQL
 
+### 📊 Statistics
+
+[![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilyAtzr)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/emily-atzinger-833466265/)
 
 Feel free to check out my repositories and get in touch if you want to collaborate on a project! 🚀
+
