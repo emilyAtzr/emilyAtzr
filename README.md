@@ -1,4 +1,4 @@
-## Hi, I'm Emily!👋
+## Hi, I'm Emily! 👋
 
 I'm a prospective software engineer currently studying at the Higher Technical College in St. Pölten. I have a passion for solving problems and enjoy collaborating with others on projects. My main interests lie in web and mobile development, and I'm also dedicated to make software accessible through open-source contributions.
 
