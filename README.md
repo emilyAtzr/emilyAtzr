@@ -10,11 +10,11 @@ I'm a prospective software engineer currently studying at the Higher Technical C
 
 ### 🛠️ Skills
 
-- Languages: Java, Python
+- Languages: Java, Kotlin, Python
 - Web Development: Angular (HTML, CSS, JS/TS) + Bootstrap
 - Mobile Development: Flutter (Dart)
-- Backend Development: Express.js
-- Database: MSSQL, PostgreSQL
+- Backend Development: Express.js, Spring
+- Database: MSSQL, PostgreSQL, MariaDB
 
 ### 📊 Statistics
 
