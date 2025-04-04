@@ -1,6 +1,6 @@
 ## Hi, I'm Emily! 👋
 
-I'm an 19-year-old aspiring software engineer from Austria, currently studying at HTL St. Pölten.
+I'm a 19-year-old aspiring software engineer from Austria, currently studying at HTL St. Pölten.
 My passion lies in **fullstack development**, with a special interest in **web and mobile applications**.
 
 ### 📚 Education
