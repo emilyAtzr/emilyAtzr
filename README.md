@@ -1,28 +1,32 @@
 ## Hi, I'm Emily! 👋
 
-I'm a prospective software engineer currently studying at the Higher Technical College in St. Pölten. I have a passion for solving problems and enjoy collaborating with others on projects. My main interests lie in web and mobile development, and I'm also dedicated to make software accessible through open-source contributions.
+I'm an 19-year-old aspiring software engineer from Austria, currently studying at HTL St. Pölten.
+My passion lies in **fullstack development**, with a special interest in **web and mobile applications**.
 
-### 🦆 About Me
+### 📚 Education
 
-- 📚 18-year-old student from Austria
-- 🏫 Currently studying @ HTL St. Pölten
-- 💻 Passionate about fullstack development with a special interest in web and mobile applications
+- 🎓 **HTL St. Pölten** - Higher Technical College
+    * **Field of study**: Computer Science 
+    * **Diploma thesis**: Software architecture with a focus on cloud-based systems
+    * **Location**: St. Pölten, Austria
 
 ### 🛠️ Skills
 
-- Languages: Java, Kotlin, Python
-- Web Development: Angular (HTML, CSS, JS/TS) + Bootstrap
-- Mobile Development: Flutter (Dart)
-- Backend Development: Express.js, Spring
-- Database: MSSQL, PostgreSQL, MariaDB
-
-### 📊 Statistics
-
-[![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilyAtzr)](https://github.com/anuraghazra/github-readme-stats)
+- **Programming Languages:**
+    * Java, Kotlin, Python
+- **Web Development:**
+    * Angular (HTML, CSS, JS/TS) 
+    * Bootstrap
+- **Mobile Development:**
+    * Flutter (Dart)
+- **Backend Development:**
+    * Express.js, Spring Boot
+- **Databases:**
+    * MSSQL, PostgreSQL, MongoDB
 
 ### 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/emily-atzinger-833466265/)
 
-Feel free to check out my repositories and get in touch if you want to collaborate on a project! 🚀
-
+I'm always excited to connect with like-minded people, collaborate on cool projects, and learn from others in the
+tech community. Let's create something great together! 🚀
