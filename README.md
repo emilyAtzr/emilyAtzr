@@ -1,6 +1,6 @@
 # Hi, I'm Emily! 👋
 
-I'm a 19-year-old software engineer from Austria. <br>
+I'm a 20-year-old software engineer from Austria. <br>
 My passion lies in fullstack development, with a special interest in web and mobile applications.
 
 ### 📚 Education
