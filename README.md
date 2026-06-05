@@ -10,13 +10,6 @@ My passion lies in fullstack development, with a special interest in web and mob
     * **Diploma thesis**: Software architecture with a focus on cloud-based systems
     * **Location**: St. Pölten, Austria
 
-### 📫 Contact
-
-- [LinkedIn](https://www.linkedin.com/in/emily-atzinger-833466265/)
-
-I'm always excited to connect with like-minded people, collaborate on cool projects, and learn from others in the
-tech community. Let's create something great together! 🚀
-
 ## 💻 Tech Stack:
 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
